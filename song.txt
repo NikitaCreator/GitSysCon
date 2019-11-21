@@ -17,5 +17,3 @@ String 7
 
 String 9
 String 10
-
-trash
